@@ -2,7 +2,7 @@
 
 Built during the Google Cloud Gen AI Academy APAC 2026, Cohort 3: Accelerate AI with Cloud Run (Aug '26 - Sep '26).
 
-This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents—evolving from basic deployment to professional multi-agent orchestration for an enterprise coffee shop.
+This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents evolving from basic deployment to professional multi-agent orchestration for an enterprise coffee shop.
 
 ---
 
