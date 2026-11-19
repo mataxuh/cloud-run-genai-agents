@@ -199,7 +199,7 @@ async def get_chat_ui():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Coffee Shop Agent</title>
+        <title>Mataxuh Coffee Shop Agent</title>
         <!-- Load marked.js for client-side markdown rendering -->
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <style>
@@ -295,7 +295,7 @@ async def get_chat_ui():
     </head>
     <body>
         <div id="sidebar">
-            <h2>☕ MAtaxuh Coffee Shop Monitor</h2>
+            <h2>☕ Mataxuh Coffee Shop Monitor</h2>
             <p>Monitoring sheet...</p>
         </div>
         <div id="main">
