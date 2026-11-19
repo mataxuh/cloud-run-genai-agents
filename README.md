@@ -1,6 +1,7 @@
 # Google Cloud Run GenAI Agent Suite
 
 Built during Cohort 3 of the Google Cloud Gen AI Academy APAC 2026, Accelerate AI with Cloud Run program (Aug '26 - Sep '26).
+
 The agents follow three Google Cloud codelabs. See the Build Notes for what I built, changed and tested.
 
 This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents evolving from basic deployment to professional multi-agent orchestration for a coffee shop business.
