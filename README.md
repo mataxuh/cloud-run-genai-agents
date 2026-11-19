@@ -1,9 +1,6 @@
-cd ~/cloud-run-genai-agents
-
-cat << 'EOF' > README.md
 # Google Cloud Run GenAI Agent Suite
 
-> Built as part of the **Google Cloud & Hack2Skill (H2S) GenAI Exchange Cohort 3: Accelerate AI with Cloud Run** (Aug '26 - Sep '26).
+Built during the Google Cloud Gen AI Academy APAC 2026, Cohort 3: Accelerate AI with Cloud Run (Aug '26 - Sep '26).
 
 This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents—evolving from basic deployment to professional multi-agent orchestration for an enterprise coffee shop.
 
@@ -49,4 +46,3 @@ This repository contains a full multi-agent ecosystem built on Google Cloud Run,
 * **Cloud Platform:** Google Cloud Platform (Cloud Run, Vertex AI / Gemini API, Artifact Registry)
 * **Frameworks:** Google Agent Development Kit (ADK), FastAPI, Uvicorn, Streamlit
 * **Integrations:** Google Sheets API, Service Account Token Delegation
-EOF
