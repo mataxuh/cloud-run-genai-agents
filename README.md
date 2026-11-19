@@ -1,8 +1,9 @@
 # Google Cloud Run GenAI Agent Suite
 
 Built during Cohort 3 of the Google Cloud Gen AI Academy APAC 2026, Accelerate AI with Cloud Run program (Aug '26 - Sep '26).
+The agents follow three Google Cloud codelabs. See the Build Notes for what I built, changed and tested.
 
-This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents evolving from basic deployment to professional multi-agent orchestration for an enterprise coffee shop.
+This repository contains a full multi-agent ecosystem built on Google Cloud Run, showcasing the full lifecycle of AI agents evolving from basic deployment to professional multi-agent orchestration for a coffee shop business.
 
 ---
 
@@ -21,7 +22,7 @@ This repository contains a full multi-agent ecosystem built on Google Cloud Run,
 
 ### 📊 [Task 2: Data & Analytics Agent](./task2-gemma-mcp/)
 * **Focus:** Model Context Protocol (MCP) data agent integration.
-* **Tech:** Gemma, Model Context Protocol, Cloud Run.
+* **Tech:** Gemma4, BigQuery MCP server, Google ADK, Cloud Run.
 
 <p align="center">
   <img src="assets/task2-gemma4-agent.png" alt="Gemma Agent" width="45%" />
